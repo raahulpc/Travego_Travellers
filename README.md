@@ -7,9 +7,8 @@ In this project you have to do the following activities…
 
 ● Insert data in these tables
 
-image
-
-● Retrieve the data from these tables based on the requirements mentioned below
+**
+Retrieve the data from these tables based on the requirements mentioned below**
 
 a. Create a schema named Travego and create the tables mentioned above with the mentioned column names. Also, declare the relevant datatypes for each feature/column in the dataset.
 
