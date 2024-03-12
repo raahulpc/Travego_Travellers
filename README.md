@@ -1,9 +1,10 @@
-# Travego_Travellers
+*About the Project*
+
 The focus of this project is to learn to write different types SQL statements to insert and retrieve data from a database. 
 For database storage we will use MySQL.
-In this project you have to do the following activities…
+In this project you have to do the following activities
 
-● Create the two tables
+● Create two tables
 
 ● Insert data in these tables
 
