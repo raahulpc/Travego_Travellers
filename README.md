@@ -8,14 +8,13 @@ In this project you have to do the following activities
 
 ● Insert data in these tables
 
-**
-Retrieve the data from these tables based on the requirements mentioned below**
+
 
 a. Create a schema named Travego and create the tables mentioned above with the mentioned column names. Also, declare the relevant datatypes for each feature/column in the dataset.
 
 b. Insert the data in the newly created tables.
 
-● Perform read operation on the designed table created in the above task.
+*The following questions would be answered*
 
 a. How many female passengers traveled a minimum distance of 600 KMs?
 
